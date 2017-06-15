@@ -221,4 +221,4 @@ def max_heapify(ary, start, end):
 
 ###算法的比较:
 
-![算法的比较](https://github.com/mengyuwei290/Leecode/tree/master/Sorting/images/排序算法比较.png)
+![算法的比较](https://github.com/mengyuwei290/Leecode/tree/master/images/排序算法比较.png)
